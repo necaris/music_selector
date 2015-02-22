@@ -1,0 +1,7 @@
+*~
+__pycache__
+.DS_Store
+._*
+*.m3u
+music.db
+music.xml
