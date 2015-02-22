@@ -7,6 +7,6 @@ language or toolkit.
 
 Implementations:
 * Python (3.x) (reference)
-* Go
+* Go (coming soon)
 * Node.js (coming soon)
 * Rust (coming soon)
