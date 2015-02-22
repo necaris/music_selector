@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2013-04-13T13:10:06Z</date>
+	<key>Application Version</key><string>11.0.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Volumes/Shared/Shared/Music/</string>
+	<key>Library Persistent ID</key><string>094B53D62F620000</string>
+	<key>Tracks</key>
+	<dict>
+		<key>1234</key>
+		<dict>
+			<key>Track ID</key><integer>1234</integer>
+			<key>Name</key><string>The Road Goes Ever On</string>
+			<key>Artist</key><string>Bilbo Baggins</string>
+			<key>Album</key><string>The Fellowship of the Ring</string>
+			<key>Genre</key><string>Ballad</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4895997</integer>
+			<key>Total Time</key><integer>244793</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2006-06-10T16:51:22Z</date>
+			<key>Date Added</key><date>2012-01-12T00:54:32Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Quite the voice on the hobbit!</string>
+			<key>Persistent ID</key><string>5114A7BA8770885B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Music/Bilbo%20Baggins/The%20Fellowship%20of%20the%20Ring/The%20Road%20Goes%20Ever%20On.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+  </dict>
+</dict>
+</plist>
